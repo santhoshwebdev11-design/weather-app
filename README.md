@@ -3,7 +3,7 @@
 A modern weather application built with React that displays real-time weather information using a public API.
 
 ## 🚀 Live Demo
-weather-6xjt17jiu-santhoshs-projects-b35f998b.vercel.app
+https://weather-6xjt17jiu-santhoshs-projects-b35f998b.vercel.app
 
 ## 🛠 Tech Stack
 - React.js
